@@ -1,5 +1,4 @@
-# homevalue-streamlit
-# homevalue-streamlit
+# 🏠 Home Value Prediction App
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)](https://homevalue-predictor.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
