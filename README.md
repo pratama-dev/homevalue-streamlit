@@ -1,7 +1,7 @@
 # homevalue-streamlit
 # homevalue-streamlit
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)]([#](https://homevalue-predictor.streamlit.app/))
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)](https://homevalue-predictor.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
 
