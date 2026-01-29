@@ -5,6 +5,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
 
 End-to-end machine learning app to predict house prices using key property features. Built with Python and Streamlit, using a trained regression model for real-time price inference.
+## Data
+The dataset (`train.csv`) is located in the `data/` folder and is accessed using a relative path in the notebook.
 
 ## Quick install & run
 
